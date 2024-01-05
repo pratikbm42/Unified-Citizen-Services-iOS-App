@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "1"; ObjectID = "1uL-0C-Py1"; */
+"1uL-0C-Py1.text" = "1";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "3nb-jc-r8m"; */
+"3nb-jc-r8m.text" = "6";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7ol-3D-j3a"; */
+"7ol-3D-j3a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "DNH-qk-Olv"; */
+"DNH-qk-Olv.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Dt0-sC-91e"; */
+"Dt0-sC-91e.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "Jbe-gr-T3L"; */
+"Jbe-gr-T3L.text" = "2";
+
+/* Class = "UILabel"; text = ","; ObjectID = "NpM-q9-lgN"; */
+"NpM-q9-lgN.text" = ",";
+
+/* Class = "UILabel"; text = ","; ObjectID = "Roh-5E-iuT"; */
+"Roh-5E-iuT.text" = ",";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "SR9-7g-idk"; */
+"SR9-7g-idk.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zqb-OA-jSN"; */
+"Zqb-OA-jSN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "eVC-Zn-W5v"; */
+"eVC-Zn-W5v.text" = "1";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "idN-0S-wUM"; */
+"idN-0S-wUM.text" = "1";
+
+/* Class = "UIButton"; configuration.title = "Forgot your Passward?"; ObjectID = "kQS-vC-1sh"; */
+"kQS-vC-1sh.configuration.title" = "Forgot your Passward?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kQS-vC-1sh"; */
+"kQS-vC-1sh.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oVU-QT-MAR"; */
+"oVU-QT-MAR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "tR4-GY-yEM"; */
+"tR4-GY-yEM.text" = "4";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "x7d-6h-bdU"; */
+"x7d-6h-bdU.text" = "1";

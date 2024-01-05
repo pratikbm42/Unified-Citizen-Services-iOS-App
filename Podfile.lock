@@ -1,0 +1,24 @@
+PODS:
+  - GoogleMaps (7.1.0):
+    - GoogleMaps/Maps (= 7.1.0)
+  - GoogleMaps/Base (7.1.0)
+  - GoogleMaps/Maps (7.1.0):
+    - GoogleMaps/Base
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - GoogleMaps (= 7.1.0)
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  GoogleMaps: bc56ffb0324e345a2d91bac1a64a920f9c8f1b20
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: 9d5b411d923eef41aa3deb01553eb241fa67dc90
+
+COCOAPODS: 1.12.1

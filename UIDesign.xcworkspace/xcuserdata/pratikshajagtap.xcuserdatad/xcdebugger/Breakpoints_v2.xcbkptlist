@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7CC8FAAA-9925-44A5-A884-2A3E4F2CFBA9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FCDCAF0-5FE2-4C7A-9779-65F22DC19154"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "loginbtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1FCDCAF0-5FE2-4C7A-9779-65F22DC19154 - 519a16cd5545b293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.ViewController.loginbtn(Any) -&gt; ()"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UIDesign/UIDesign/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "1FCDCAF0-5FE2-4C7A-9779-65F22DC19154 - 519a16cd5545b293"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.ViewController.loginbtn(Any) -&gt; ()"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UIDesign/UIDesign/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B751AF1-605F-4DAA-85AF-6700DE976BC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "checkValidate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B751AF1-605F-4DAA-85AF-6700DE976BC4 - 9eb2c3327ec4147a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.LoginViewController.checkValidate() -&gt; Swift.Bool"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UIDesign/UIDesign/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "6B751AF1-605F-4DAA-85AF-6700DE976BC4 - 9eb2c3327ec4147a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.LoginViewController.checkValidate() -&gt; Swift.Bool"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UIDesign/UIDesign/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "289">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D7DFE54-C1DD-48EC-A66B-79015E1E156F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "checkValidate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D7DFE54-C1DD-48EC-A66B-79015E1E156F - 9eb2c3327ec414bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.LoginViewController.checkValidate() -&gt; Swift.Bool"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UIDesign/UIDesign/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "926">
+               </Location>
+               <Location
+                  uuid = "4D7DFE54-C1DD-48EC-A66B-79015E1E156F - 9eb2c3327ec414bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.LoginViewController.checkValidate() -&gt; Swift.Bool"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UIDesign/UIDesign/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C79999DA-054B-468F-AFCF-CD74E933AD93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "checkValidate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3A38331-7E71-459B-BDC4-D76BB2AA6BCA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/DetailMyServiceRequest/Design/InstaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92BFC6F5-9B19-4344-9835-585607B00E48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/MyServiceRequest/AddDocumentPopUp/AddDocumentPopUp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7788A4D-8B4B-471C-B3AD-2FD9C753D6BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIDesign/MyServiceRequest/AddDocumentPopUp/AddDocumentPopUp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7788A4D-8B4B-471C-B3AD-2FD9C753D6BD - 60af4d4964b7affd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.AddDocumentPopUp.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UI%204/UIDesign/MyServiceRequest/AddDocumentPopUp/AddDocumentPopUp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1441">
+               </Location>
+               <Location
+                  uuid = "A7788A4D-8B4B-471C-B3AD-2FD9C753D6BD - 60af4d4964b7affd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIDesign.AddDocumentPopUp.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "UIDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratikshajagtap/Desktop/UI%204/UIDesign/MyServiceRequest/AddDocumentPopUp/AddDocumentPopUp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

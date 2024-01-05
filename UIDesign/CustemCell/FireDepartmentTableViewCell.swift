@@ -2,7 +2,7 @@
 //  FireDepartmentTableViewCell.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 16/10/23.
+//  Created by Pratik Morge on 16/10/23.
 //
 
 import UIKit

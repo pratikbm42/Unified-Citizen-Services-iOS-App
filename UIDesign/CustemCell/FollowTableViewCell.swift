@@ -2,7 +2,7 @@
 //  FollowTableViewCell.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 02/11/23.
+//  Created by Pratik Morge on 02/11/23.
 //
 
 import UIKit

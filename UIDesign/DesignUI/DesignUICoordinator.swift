@@ -2,7 +2,7 @@
 //  DesignUICoordinator.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 03/10/23.
+//  Created by Pratik Morge on 03/10/23.
 //
 
 import Foundation

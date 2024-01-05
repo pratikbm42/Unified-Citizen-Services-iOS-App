@@ -2,7 +2,7 @@
 //  DetailMyServiceRequestViewModel.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 11/10/23.
+//  Created by Pratik Morge on 11/10/23.
 //
 
 import Foundation

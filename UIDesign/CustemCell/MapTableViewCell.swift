@@ -2,7 +2,7 @@
 //  MapTableViewCell.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 12/10/23.
+//  Created by Pratik Morge on 12/10/23.
 //
 
 import UIKit

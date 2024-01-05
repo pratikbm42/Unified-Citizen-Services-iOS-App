@@ -2,7 +2,7 @@
 //  ConstantMethod.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 23/11/23.
+//  Created by Pratik Morge on 23/11/23.
 //
 
 import Foundation

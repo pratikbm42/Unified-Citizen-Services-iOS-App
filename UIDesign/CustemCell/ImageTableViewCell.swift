@@ -2,7 +2,7 @@
 //  ImageTableViewCell.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 13/10/23.
+//  Created by Pratik Morge on 13/10/23.
 //
 
 import UIKit

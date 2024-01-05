@@ -2,7 +2,7 @@
 //  MainTitleTableViewCell.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 17/10/23.
+//  Created by Pratik Morge on 17/10/23.
 //
 
 import UIKit

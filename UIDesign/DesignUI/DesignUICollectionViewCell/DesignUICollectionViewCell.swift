@@ -2,7 +2,7 @@
 //  DesignUICollectionViewCell.swift
 //  UIDesign
 //
-//  Created by Pratiksha Jagtap on 05/10/23.
+//  Created by Pratik Morge on 05/10/23.
 //
 
 import UIKit

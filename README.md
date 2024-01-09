@@ -4,6 +4,18 @@ Description =>
 
 The Citizen Services iOS Application is a comprehensive project designed to provide citizens with a user-friendly interface for accessing a range of services. This application is built on the Model-View-ViewModel (MVVM) architecture and utilizes the Coordinator design pattern for seamless navigation. The app comprises eight view controllers, each serving a specific purpose:
 
+Screenshots => 
+
+
+![WhatsApp Image 2024-01-09 at 8 06 45 PM (1)](https://github.com/pratikbm42/Unified-Citizen-Services-iOS-App/assets/146938244/826a6f97-987f-4526-940f-285f53088a71)
+
+
+![WhatsApp Image 2024-01-09 at 8 06 46 PM](https://github.com/pratikbm42/Unified-Citizen-Services-iOS-App/assets/146938244/9bd53206-d510-49d7-9184-3ae90d549c4f)
+
+
+![WhatsApp Image 2024-01-09 at 8 06 47 PM](https://github.com/pratikbm42/Unified-Citizen-Services-iOS-App/assets/146938244/4df760b2-15dd-46e7-bfda-293a5e1ef7f3)
+
+
 Key Features => 
 
 Initial Page (1st ViewController)  :-   Featuring a logo, login and register buttons, and an Insta button. Clicking on login navigates to the login page, and clicking on register goes to the registration page.
